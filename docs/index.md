@@ -12,8 +12,8 @@ Dieses Wiki erklärt die wichtigsten Marktformen in der Volkswirtschaft.
 
 - [Marktformen](Marktformen.md)
 - [Polypol](Polypol.md)
-- [Monopol](Monopo.md)
-- [Oligopol](oligopol.md)
+- [Monopol](Monopol.md)
+- [Oligopol](Oligopol.md)
 - [Monopson](Monopson.md)
 
 
