@@ -1,0 +1,6 @@
+site_name: Marktformen-Wiki
+theme:
+    name: material
+
+extra_css:
+  - css/extra_Polypol2.css
